@@ -18,7 +18,7 @@ page_sections:
   cta:
     link_url: "/contact"
     link_text: Contattaci
-    open_in_new_tab: true
+    open_in_new_tab: false
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -33,7 +33,9 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-  navigation: []
+  navigation:
+  - link_url: ''
+    link_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
