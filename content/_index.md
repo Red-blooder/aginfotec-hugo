@@ -9,15 +9,15 @@ page_sections:
   navigation:
   - link_url: "/"
     link_text: Home
-  - link_url: "#hero-2"
-    link_text: Features
   - link_url: "#"
-    link_text: Pricing
+    link_text: Cosa facciamo
   - link_url: "#"
-    link_text: Team
+    link_text: La nostra storia
+  - link_url: "#"
+    link_text: Dove siamo
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
+    link_text: Contattaci
     open_in_new_tab: true
 - template: hero-banner-w-image
   block: hero-2
