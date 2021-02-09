@@ -13,6 +13,6 @@ open_in_new_tab = true
 [[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
-open_in_new_tab = false
+open_in_new_tab = true
 
 +++
