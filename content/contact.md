@@ -9,7 +9,7 @@ template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = "Contattaci"
 link_url = "/contact"
-open_in_new_tab = false
+open_in_new_tab = true
 [[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
