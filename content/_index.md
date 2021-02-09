@@ -16,7 +16,7 @@ page_sections:
   - link_url: "#"
     link_text: Dove siamo
   cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    link_url: "/contact"
     link_text: Contattaci
     open_in_new_tab: true
 - template: hero-banner-w-image
@@ -28,10 +28,12 @@ page_sections:
     enabled: true
     link_url: https://github.com/forestryio/ubuild-jekyll
     link_text: 'See on GitHub '
+    open_in_new_tab: false
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Left
